@@ -6,7 +6,8 @@ class Divisiableby3{
         int num = sc.nextInt();
         for(int i = 1;i<=num;i++){
             if(i%3==0){
-                System.out.println("Divisiable by 3"+ " " + i);
+                System.out.println("Divisiable by 3"+ " " +
+                 i);
             }
         }
     }
